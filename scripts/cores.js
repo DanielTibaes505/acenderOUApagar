@@ -1,0 +1,1 @@
+window.cores = new ControllerCores();
